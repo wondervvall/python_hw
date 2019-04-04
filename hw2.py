@@ -1,0 +1,9 @@
+x=int(input('x='))
+        if(100>=x>=90):
+            print('A')
+        elif(x>=80):
+            print('B')
+        elif(x>=70):
+            print('C')
+        elif(0<x<70):
+            print('F')
